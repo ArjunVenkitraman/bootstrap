@@ -1,0 +1,62 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.logo{
+    height: 2rem;
+}
+.nav-link{
+    text-decoration: none;
+}
+.header_wrapper{
+    background-image: url('../images/header/background.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width:100vw;
+}
+.best{
+    font-size: 80px;
+color: #aab33c;
+font-family: best;
+}
+.real{
+    font-size: 25px;
+text-transform: uppercase;
+color: #ffffff;
+font-family: "Quicksand";
+}
+@font-face {
+    font-family: best;
+    src: url(/assets/css/best.ttf);
+}
+.banner_image{
+  
+}
+.nav_btn{
+    background-color: #aab33c;
+}
+.startnow{
+    font-size: 18px;
+color: #ffffff;
+font-family: "Quicksand";
+background-color: #aab33c;
+}
+.to_make{
+font-size: 20px;
+text-transform: uppercase;
+color: #404142;
+font-weight: 700;
+font-family: "Quicksand";
+text-align: center;
+}
+.card_img{
+    height: 3.5rem;
+    width:4rem;
+}
+.card_four{
+border-radius: 10px; 
+height:9rem;
+width:10rem;
+background-color: #d4da9c;
+}
